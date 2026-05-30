@@ -8,6 +8,6 @@ A secure and fully functional ATM Interface simulation built using Java. This ob
 • Withdraw Cash: Securely deduct funds after verifying sufficient balance limits.
 •  Transaction Security: Implements validation to ensure valid inputs and prevent overdrafts.
 
-🛠️ Technologies Used
+Technologies Used
 • Language: Java (JDK 11+)
 • Core Concepts: Object-Oriented Programming (OOP) - Classes, Objects, Encapsulation.
